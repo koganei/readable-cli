@@ -1,0 +1,13 @@
+{
+    "name": "content-extractor",
+    "version": "1.0.0",
+    "bin": {
+        "readable": "./readable.js"
+    },
+    "dependencies": {
+        "@mozilla/readability": "^0.4.4",
+        "axios": "^1.3.6",
+        "jsdom": "^21.1.1",
+        "turndown": "^7.1.2"
+    }
+}
